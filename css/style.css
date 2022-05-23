@@ -1,4 +1,8 @@
-.my-custom-group {
-  color: gold;  
+html, body {
+  margin: 0;
+  overflow: hidden;
 }
 
+.invite{
+  background-image:url("images/invitation.png");
+}
