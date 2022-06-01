@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 html, body {
   margin: 0;
   overflow: hidden;
@@ -6,3 +7,12 @@ html, body {
 .invite{
   background-image:url("images/invitation.png");
 }
+=======
+
+
+
+body{
+  background-repeat: no-repeat;
+  width:100%;
+}
+>>>>>>> 6b5d2be (Adding buttons)
